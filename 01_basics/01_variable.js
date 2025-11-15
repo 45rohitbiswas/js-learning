@@ -11,6 +11,7 @@ accountPassword = "21345"
 accountCity = "bengaluru"
 
 console.log(accountId);
+console.log(accountCity)
 
 /*
 Prefer not to use var
